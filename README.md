@@ -1,5 +1,7 @@
 # Horus Events 
 
+# Please see [v47-io/events](https://github.com/v47-io/events) for updates and future development!
+
 > Simple asynchronous events for Kotlin 
 
 [![Download](https://api.bintray.com/packages/vemilyus/horus/horus-events/images/download.svg)][bintray-url]
